@@ -35,7 +35,7 @@
 
 <hr/>
  
-<h2 align="center">💻 Technologies I Love:</h3><br/>
+<h2>💻 Technologies I Love:</h3><br/>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
