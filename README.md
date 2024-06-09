@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  A passionate Full Stack Developer with expertise in Next.js, React.js, TypeScript, JavaScript, Node.js, and Python.
+  A passionate Full Stack Developer with expertise in Next.js, TypeScript, Python, FastAPI and Docker.
 </h3>
 
 <br/>
